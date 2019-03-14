@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+header nav{
+    background-color: #03A9F4;
+    padding-bottom: 50px;
+}
+.nav-wrapper .brand-logo img {
+    height: 64px;
+    margin-left: 10px;
+}
+.btn-large{
+    background-color: #9EEB62;
+}
+.btn-large:hover{
+    background-color: #9EEB62;
+}
+.btn-flat{
+	color: #03A9F4;
+}
+#btn-pay{
+    background-color: #9EEB62;
+}
+#btn-pay a:visited{
+    color: white;
+}
+#detail{
+    padding: 30px;
+    background-color: #eeeeee;
+    height:100%;
+}
+article div .row h5,h6{
+	margin-left: 30px;
+}
+fieldset{
+	border: none;
+}
+.invisible{
+	display: none;
+  }

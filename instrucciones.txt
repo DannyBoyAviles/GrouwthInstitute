@@ -1,0 +1,11 @@
+INSTRUCCIONES
+1. coloque todos los archivos en la carpeta raiz de su servidor local
+2. en el navegador de su preferencia untre a la ruta localhost ó localhost/index.html
+3. en la barrade menu dirijase a la pestaña de configuracion. 
+
+EN ESTE APARTADO APARECEN DOS BOTONES 
+    UNO CREA LA BASE DE DATOS 
+    EL SEGUNDO CREA LA TABLA 
+
+4.- presione cada boton respectivamente
+5.- comience con la prueba
